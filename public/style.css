@@ -1,0 +1,42 @@
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+
+.leftcolumn {
+    float: left;
+    width: 75%;
+}
+
+.rotate {
+    transition: rotate 2s;
+}
+
+.rotate:hover {
+    transform: rotate(-20deg);
+}
+
+.transisi {
+    width: 100px;
+    height: 100px;
+    transition: width 2s;
+}
+
+.transisi:hover {
+    width: 300px;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
