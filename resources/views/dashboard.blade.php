@@ -13,7 +13,7 @@
                     <button class="btn btn-outline-primary" type="submit">Search</button>
                   </form>
                   <div class="mt-4">
-                    <p>Kamu bisa nih menggunakan cms toko online terbaik Shopify, sebab kamu dapat menggunakannya untuk toko online secara gratis.</p>
+                    <p>Kamu harus bisa nih menggunakan cms toko online terbaik Shopify, sebab kamu dapat menggunakannya untuk toko online secara gratis.</p>
                  </div>
             </div>
         </div>
