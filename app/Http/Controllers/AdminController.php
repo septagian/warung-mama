@@ -22,6 +22,7 @@ class AdminController extends Controller
     public function create()
     {
         $data=Product::get();
+        dd('ok');
         $kategori=Category::get();
         return view('Admin.create', compact('data', 'kategori'));
     }
